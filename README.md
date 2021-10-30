@@ -5,7 +5,7 @@
 ## Preview 
 <img src="https://github.com/YamamotoDesu/DynamicAndroidApp/blob/master/app/gif/tippy.gif" width="300"> 
 
-```kotolin
+```java
 private const val INITIAL_TIP_PERCENT = 10
 
 private lateinit var seekBarTip: SeekBar
